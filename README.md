@@ -1,2 +1,2 @@
 # Day-15-Coffee-Machine-Project
-First project on charming PyCharm. 
+The first project on charming PyCharm. 
